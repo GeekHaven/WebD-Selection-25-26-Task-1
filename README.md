@@ -23,10 +23,7 @@ Define your **Mongoose Schemas**:
 - Write a **seeder script** to populate your database with data from:  
   [https://test-data-gules.vercel.app/data.json](https://test-data-gules.vercel.app/data.json)
 
-## 📡 API Endpoint
 
-```http
-GET /api/v1/content
 
 It must support:  
 - **Searching**: Filter results by question title (`?search=array`)  
