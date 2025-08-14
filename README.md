@@ -122,7 +122,3 @@ Design the elegant dining experience for your guests.
    - Don’t copy large chunks from AI or other sources.
 
 ---
-
-
-### **The Grand API Gateway (35 Points)**  
-Create the primary endpoint:  
