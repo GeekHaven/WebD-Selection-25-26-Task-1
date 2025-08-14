@@ -102,23 +102,18 @@ Design the elegant dining experience for your guests.
 
 ## 🎯 Rules of the Banquet
 
-1. **Deploy Your Creation**:  
-   - Frontend: Vercel, Netlify, etc.  
-   - Backend: Render, Cyclic, etc.  
-   - Provide live links in your `README.md`.
-
-2. **Sign Your Masterpiece**:  
+1. **Sign Your Masterpiece**:  
    - Include your **Name** and **Enrollment Number** in `README.md`.
 
-3. **Frontend Purity**:  
+2. **Frontend Purity**:  
    - Only vanilla **CSS** & **JavaScript**.  
    - No frameworks like Bootstrap or Tailwind.
 
-4. **Original Recipes Only**:  
+3. **Original Recipes Only**:  
    - Plagiarism = ❌ disqualification.  
    - Your code will be checked.
 
-5. **Learn, Don’t Lift**:  
+4. **Learn, Don’t Lift**:  
    - Learning from resources is fine.  
    - Don’t copy large chunks from AI or other sources.
 
