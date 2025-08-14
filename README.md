@@ -23,7 +23,8 @@ Define your **Mongoose Schemas**:
 - Write a **seeder script** to populate your database with data from:  
   [https://test-data-gules.vercel.app/data.json](https://test-data-gules.vercel.app/data.json)
 
-
+### **The Grand API Gateway (35 Points)**  
+Create the primary endpoint: 
 
 It must support:  
 - **Searching**: Filter results by question title (`?search=array`)  
