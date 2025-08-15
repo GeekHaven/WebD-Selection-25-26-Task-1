@@ -106,8 +106,7 @@ Design the elegant dining experience for your guests.
    - Include your **Name** and **Enrollment Number** in `README.md`.
 
 2. **Frontend Purity**:  
-   - Only vanilla **CSS** & **JavaScript**.  
-   - No frameworks like Bootstrap or Tailwind.
+   - React and frameworks can be used.  
 
 3. **Original Recipes Only**:  
    - Plagiarism = ❌ disqualification.  
