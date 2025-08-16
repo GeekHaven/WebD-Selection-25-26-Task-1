@@ -16,7 +16,7 @@ You are the source of all ingredients. You'll build a powerful API from scratch.
 ### **Crafting the Blueprints (20 Points)**  
 Define your **Mongoose Schemas**:  
 - **User**: `name`, `email`, `password`  
-- **Question**: `title`, `url` (enum: `'Easy'`, `'Medium'`, `'Hard'`)  
+- **Question**: `title`, `url`
 - **Category**: `title`, `questions` (array of Question references)
 
 ### **Summoning the Ingredients (15 Points)**  
