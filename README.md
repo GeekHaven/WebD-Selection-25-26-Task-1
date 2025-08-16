@@ -27,8 +27,7 @@ Define your **Mongoose Schemas**:
 Create the primary endpoint: 
 
 It must support:  
-- **Searching**: Filter results by question title (`?search=array`)  
-- **Filtering**: Filter by difficulty (`?difficulty=Medium`)  
+- **Searching**: Filter results by question title (`?search=array`) 
 - **Pagination**: Control page & limit (`?page=2&limit=5`)
 
 ---
@@ -37,11 +36,7 @@ It must support:
 Design the elegant dining experience for your guests.
 
 - **Serve from Your Kitchen**: Fetch all data from your backend API only.  
-- **The Elegant Accordion**: Display categories & questions in collapsible format.  
-- **Difficulty Flair**: Show a **color-coded tag** next to each question:  
-  - Easy → Green  
-  - Medium → Yellow  
-  - Hard → Red  
+- **The Elegant Accordion**: Display categories & questions in collapsible format.
 - **Works Everywhere**: Fully responsive across all devices.
 
 ---
@@ -87,7 +82,7 @@ Design the elegant dining experience for your guests.
 
 - **The Guardian** (30 Points): JWT verification middleware for all user-specific routes. Unauthenticated requests → `401 Unauthorized`.  
 - **The Rate Limiter** (25 Points): Basic rate limiting on login/register to prevent brute-force attacks.  
-- **The Sorter** (20 Points): Enhance `GET /api/v1/content` with sorting by name/difficulty (`?sortBy=difficulty_asc`).
+- **The Sorter** (20 Points): Enhance `GET /api/v1/content` with sorting by name(`?sortBy=name`).
 
 ---
 
